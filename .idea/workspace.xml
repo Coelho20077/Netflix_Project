@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e420ad1-b665-49ba-bd8b-830be00b22be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Netflix_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/credits.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/titles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netflix/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netflix/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netflix/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netflix/search.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="15" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/netflix" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4533660910937627" />
+      <entry key="MS500" value="2.531523898715415" />
+      <entry key="S2" value="3.5447123898358437" />
+      <entry key="S5" value="4.622202705879502" />
+      <entry key="S10" value="5.94781178884259" />
+      <entry key="S30" value="10.122690390361278" />
+      <entry key="S60" value="13.28939484863024" />
+      <entry key="M2" value="15.714056019016196" />
+      <entry key="M5" value="17.56351650249449" />
+      <entry key="M10" value="18.348247849719083" />
+      <entry key="M15" value="18.991815865825988" />
+      <entry key="M30" value="22.52337757943228" />
+      <entry key="H1" value="38.11501517267854" />
+      <entry key="H2" value="76.14206741268443" />
+      <entry key="H4" value="124.2281261736472" />
+      <entry key="D1" value="211.498163797413" />
+      <entry key="W1" value="263.415894660095" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.659302213002259E-6" />
+      <entry key="MS500" value="0.08178675604504503" />
+      <entry key="S2" value="0.5629083533410879" />
+      <entry key="S5" value="1.0182330721264463" />
+      <entry key="S10" value="1.3719442937794728" />
+      <entry key="S30" value="1.7472945490602922" />
+      <entry key="S60" value="1.8671380855864783" />
+      <entry key="M2" value="1.9318461499529607" />
+      <entry key="M5" value="1.9723301462087552" />
+      <entry key="M10" value="1.9921389859316205" />
+      <entry key="M15" value="2.034711209452095" />
+      <entry key="M30" value="2.449782962061841" />
+      <entry key="H1" value="4.608243602320807" />
+      <entry key="H2" value="10.16057879609748" />
+      <entry key="H4" value="17.37414561708931" />
+      <entry key="D1" value="30.93491162374227" />
+      <entry key="W1" value="39.54759506320487" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3153983331100099" />
+      <entry key="MS500" value="2.193316190369596" />
+      <entry key="S2" value="3.585150407578753" />
+      <entry key="S5" value="5.15693116515436" />
+      <entry key="S10" value="6.899875731161916" />
+      <entry key="S30" value="11.581984463885139" />
+      <entry key="S60" value="14.964968592133008" />
+      <entry key="M2" value="17.532901527101785" />
+      <entry key="M5" value="19.485541377057093" />
+      <entry key="M10" value="20.31419919488998" />
+      <entry key="M15" value="21.008545893468657" />
+      <entry key="M30" value="24.9624351705002" />
+      <entry key="H1" value="42.713307397251626" />
+      <entry key="H2" value="86.29169038032872" />
+      <entry key="H4" value="141.59288378961176" />
+      <entry key="D1" value="242.43023666828972" />
+      <entry key="W1" value="302.96295607591674" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LQHR4zyFeC1pSgoBsdwJ4KhsWV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.search.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Afonso Coelho/PycharmProjects/Netflix_Project/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.AcpAgentsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Afonso Coelho\PycharmProjects\Netflix_Project\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Afonso Coelho\PycharmProjects\Netflix_Project\netflix" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.11879.98" />
+        <option value="bundled-python-sdk-ebb3072d7bdf-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.11879.98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e420ad1-b665-49ba-bd8b-830be00b22be" name="Changes" comment="" />
+      <created>1793379359842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793379359842</updated>
+      <workItem from="1793379360844" duration="14107000" />
+      <workItem from="1793783289314" duration="1397000" />
+      <workItem from="1793784942775" duration="4803000" />
+      <workItem from="1793790603364" duration="791000" />
+      <workItem from="1794388339397" duration="12003000" />
+      <workItem from="1794437879465" duration="330000" />
+      <workItem from="1794475070273" duration="17000" />
+      <workItem from="1794579079431" duration="1266000" />
+      <workItem from="1794993542813" duration="34000" />
+      <workItem from="1795082675723" duration="507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Netflix_Project$main.coverage" NAME="main Coverage Results" MODIFIED="1794438106607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netflix" />
+    <SUITE FILE_PATH="coverage/Netflix_Project$data.coverage" NAME="data Coverage Results" MODIFIED="1793385971384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netflix" />
+    <SUITE FILE_PATH="coverage/Netflix_Project$search.coverage" NAME="search Coverage Results" MODIFIED="1793791255500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netflix" />
+  </component>
+</project>
