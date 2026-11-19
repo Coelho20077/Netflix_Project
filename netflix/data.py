@@ -49,6 +49,7 @@ def load_titles():
 
 
 def load_credits():
+
     caminho = os.path.join("data", "credits.csv")
     return load_csv(caminho)
 

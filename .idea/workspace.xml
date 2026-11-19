@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e420ad1-b665-49ba-bd8b-830be00b22be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Netflix_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/credits.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/titles.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netflix/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netflix/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netflix/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netflix/search.py" afterDir="false" />
+    <list default="true" id="8e420ad1-b665-49ba-bd8b-830be00b22be" name="Changes" comment="commit netflix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/netflix/data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="gitignore" />
+        <option value="README" />
       </list>
     </option>
   </component>
@@ -47,61 +40,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.4533660910937627" />
-      <entry key="MS500" value="2.531523898715415" />
-      <entry key="S2" value="3.5447123898358437" />
-      <entry key="S5" value="4.622202705879502" />
-      <entry key="S10" value="5.94781178884259" />
-      <entry key="S30" value="10.122690390361278" />
-      <entry key="S60" value="13.28939484863024" />
-      <entry key="M2" value="15.714056019016196" />
-      <entry key="M5" value="17.56351650249449" />
-      <entry key="M10" value="18.348247849719083" />
-      <entry key="M15" value="18.991815865825988" />
-      <entry key="M30" value="22.52337757943228" />
-      <entry key="H1" value="38.11501517267854" />
-      <entry key="H2" value="76.14206741268443" />
-      <entry key="H4" value="124.2281261736472" />
-      <entry key="D1" value="211.498163797413" />
-      <entry key="W1" value="263.415894660095" />
+      <entry key="MS100" value="1.6098450324714402" />
+      <entry key="MS500" value="3.0807281011881367" />
+      <entry key="S2" value="4.213194472740931" />
+      <entry key="S5" value="6.405858315959122" />
+      <entry key="S10" value="8.526581132635357" />
+      <entry key="S30" value="16.031388323781066" />
+      <entry key="S60" value="25.91145251815332" />
+      <entry key="M2" value="35.90064647268133" />
+      <entry key="M5" value="46.43379060324786" />
+      <entry key="M10" value="54.33629237218465" />
+      <entry key="M15" value="59.135477797173785" />
+      <entry key="M30" value="67.98151335194093" />
+      <entry key="H1" value="85.1722515448198" />
+      <entry key="H2" value="123.27420804625284" />
+      <entry key="H4" value="173.13631088533583" />
+      <entry key="D1" value="266.1800788617828" />
+      <entry key="W1" value="320.00349303135505" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.659302213002259E-6" />
-      <entry key="MS500" value="0.08178675604504503" />
-      <entry key="S2" value="0.5629083533410879" />
-      <entry key="S5" value="1.0182330721264463" />
-      <entry key="S10" value="1.3719442937794728" />
-      <entry key="S30" value="1.7472945490602922" />
-      <entry key="S60" value="1.8671380855864783" />
-      <entry key="M2" value="1.9318461499529607" />
-      <entry key="M5" value="1.9723301462087552" />
-      <entry key="M10" value="1.9921389859316205" />
-      <entry key="M15" value="2.034711209452095" />
-      <entry key="M30" value="2.449782962061841" />
-      <entry key="H1" value="4.608243602320807" />
-      <entry key="H2" value="10.16057879609748" />
-      <entry key="H4" value="17.37414561708931" />
-      <entry key="D1" value="30.93491162374227" />
-      <entry key="W1" value="39.54759506320487" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="7.505120443439267E-203" />
+      <entry key="S5" value="1.8105694488141703E-81" />
+      <entry key="S10" value="5.785227903780817E-41" />
+      <entry key="S30" value="6.081734452757758E-14" />
+      <entry key="S60" value="3.4834301260623337E-7" />
+      <entry key="M2" value="8.344260801976329E-4" />
+      <entry key="M5" value="0.08894995770685217" />
+      <entry key="M10" value="0.42306071712124454" />
+      <entry key="M15" value="0.7242549776831023" />
+      <entry key="M30" value="1.4615778925837926" />
+      <entry key="H1" value="3.55944762198896" />
+      <entry key="H2" value="8.929806269758236" />
+      <entry key="H4" value="16.287905898002112" />
+      <entry key="D1" value="30.603834547456835" />
+      <entry key="W1" value="39.486851124732745" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3153983331100099" />
-      <entry key="MS500" value="2.193316190369596" />
-      <entry key="S2" value="3.585150407578753" />
-      <entry key="S5" value="5.15693116515436" />
-      <entry key="S10" value="6.899875731161916" />
-      <entry key="S30" value="11.581984463885139" />
-      <entry key="S60" value="14.964968592133008" />
-      <entry key="M2" value="17.532901527101785" />
-      <entry key="M5" value="19.485541377057093" />
-      <entry key="M10" value="20.31419919488998" />
-      <entry key="M15" value="21.008545893468657" />
-      <entry key="M30" value="24.9624351705002" />
-      <entry key="H1" value="42.713307397251626" />
-      <entry key="H2" value="86.29169038032872" />
-      <entry key="H4" value="141.59288378961176" />
-      <entry key="D1" value="242.43023666828972" />
-      <entry key="W1" value="302.96295607591674" />
+      <entry key="MS100" value="1.4349586605321616" />
+      <entry key="MS500" value="2.5036719627232085" />
+      <entry key="S2" value="3.72567991817127" />
+      <entry key="S5" value="6.127728377352819" />
+      <entry key="S10" value="8.364519590167024" />
+      <entry key="S30" value="15.96542349152365" />
+      <entry key="S60" value="25.871812061045052" />
+      <entry key="M2" value="35.87404561009233" />
+      <entry key="M5" value="46.49438863722569" />
+      <entry key="M10" value="54.73203191525175" />
+      <entry key="M15" value="59.83575708966247" />
+      <entry key="M30" value="69.42595219951268" />
+      <entry key="H1" value="88.71805856066202" />
+      <entry key="H2" value="132.19124875691273" />
+      <entry key="H4" value="189.41380550825912" />
+      <entry key="D1" value="296.7808306996391" />
+      <entry key="W1" value="359.48977198886246" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -113,34 +106,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.search.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Afonso Coelho/PycharmProjects/Netflix_Project/data&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.AcpAgentsConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.data.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.search.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Afonso Coelho/PycharmProjects/Netflix_Project/data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Afonso Coelho\PycharmProjects\Netflix_Project\data" />
@@ -173,12 +166,44 @@
       <workItem from="1794475070273" duration="17000" />
       <workItem from="1794579079431" duration="1266000" />
       <workItem from="1794993542813" duration="34000" />
-      <workItem from="1795082675723" duration="507000" />
+      <workItem from="1795082675723" duration="1498000" />
     </task>
+    <task id="LOCAL-00001" summary="commit netflix">
+      <option name="closed" value="true" />
+      <created>1795083483015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1795083483016</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit netflix">
+      <option name="closed" value="true" />
+      <created>1795083553481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1795083553481</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit netflix" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit netflix" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Netflix_Project$main.coverage" NAME="main Coverage Results" MODIFIED="1794438106607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/netflix" />
